@@ -1,0 +1,15 @@
+Index: src/main/resources/application.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/resources/application.yml	(date 1592919778000)
++++ src/main/resources/application.yml	(revision )
+@@ -11,4 +11,4 @@
+       discovery:
+         locator:
+           enabled: true
+-      enabled: true
+\ No newline at end of file
++      enabled: true  
+\ No newline at end of file
